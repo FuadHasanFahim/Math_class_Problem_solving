@@ -9,7 +9,7 @@ public class Math_Problem_Solving {
         double input = scanner.nextDouble();
 
         if ((input % 1) == 0) {
-            System.out.println("It's not a double number");
+            System.out.println("It's a integer number");
         } else {
             System.out.println("It's a double number");
         }
